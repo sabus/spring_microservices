@@ -1,4 +1,4 @@
-# Docker compose with sprint boot application
+# Docker compose with spring boot application
 
 To run application it is needed to run:
 
