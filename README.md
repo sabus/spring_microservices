@@ -1,6 +1,6 @@
 # Docker compose with spring boot application
 
-To run application it is needed to run:
+To run application it is needed to execute command:
 
 ```
 sh setup.sh
